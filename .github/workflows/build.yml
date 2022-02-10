@@ -24,4 +24,4 @@ jobs:
       # - uses: sonarsource/sonarqube-quality-gate-action@master
       #   timeout-minutes: 5
       #   env:
-      #     SONAR_TOKEN: GLOBAL:EITS:GCS-Salesforce:134_GLOBAL-EITS-GCSSalesforce-134_Salesforce
+      #     SONAR_TOKEN: GLOBAL:EITS:b5597b91cd49bcbeb7f2f70443d160814ed80b3f
